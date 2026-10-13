@@ -10,7 +10,7 @@ I'm passionate about programming, problem-solving, and building real-world proje
 - Building projects for internships and placements
 
 ### 💻 Technical Skills
-- **Languages:** Java, Python (add according to your knowledge)
+- **Languages:** Java, Python (Basics)
 - **Tools:** Git, GitHub, VS Code
 - **Core Concepts:** OOP, Arrays, Strings, Sorting, DSA
 
@@ -20,7 +20,7 @@ I'm passionate about programming, problem-solving, and building real-world proje
 - Secure a software development internship
 
 ### 📫 Connect With Me
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: www.linkedin.com/in/aryan-kumar-766b05385
+- Email: aryanchoudhary12345676@gmail.com
 
 ⭐ Explore my repositories to see my coding journey!
